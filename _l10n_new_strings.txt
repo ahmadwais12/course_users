@@ -1,0 +1,416 @@
+=== STATIC NEW STRINGS (can be map keys) ===
+  1x  2:30 PM - 3:30 PM
+  1x  500+ successful graduates
+  1x  7:30 AM - 8:30 AM
+  1x  ACTIVE
+  2x  Academic
+  1x  Academic Year 2024-2025
+  1x  Access resources and support for your mental health
+  1x  Account Information
+  2x  Add Book
+  1x  Add New Application
+  1x  Add Student
+  1x  Add any notes for your instructor...
+  1x  Additional Details
+  1x  Additional Notes
+  1x  Ads Hub
+  1x  Ads Hub - Coming Soon
+  1x  Afternoon Route
+  1x  Albums
+  1x  All notifications marked as read
+  2x  Alumni Network
+  1x  Amount
+  1x  Applications
+  2x  Apply for Leave
+  1x  Assignment Details
+  2x  Assignment submitted successfully!
+  1x  Attendance Alerts
+  1x  Attendance Calendar
+  1x  Attendance Report
+  1x  Available
+  1x  Back to Dashboard
+  1x  Book Session
+  1x  Books
+  1x  Brief title
+  1x  Brief title of your feedback
+  1x  Browse through our photo gallery
+  1x  Bus #42
+  1x  Busy
+  1x  Buy
+  1x  Camera
+  1x  Campus Map
+  1x  Canteen Menu
+  1x  Change file
+  1x  Class ID
+  1x  Co-curricular Activities
+  1x  Communication
+  1x  Complaints & Feedback
+  1x  Content
+  1x  Continue Learning
+  1x  Copy
+  1x  Course Details
+  1x  Course Modules
+  1x  Create Task
+  1x  Current
+  1x  Daily Records
+  1x  Data:
+  1x  Delete Account?
+  2x  Description
+  1x  Discount
+  1x  Discover Your Career Path
+  1x  Discussion Forum
+  1x  Document Categories
+  1x  Download
+  1x  Download Certificate
+  1x  Download resource feature
+  1x  Driver Information
+  1x  Duration
+  1x  Earlier
+  1x  Emergency Contacts
+  1x  Enjoy your free day!
+  1x  Enter Verification Code
+  1x  Error loading course
+  2x  Error loading data
+  1x  Exam Preparation
+  1x  Exam Ready?
+  1x  Exchange Programs
+  2x  Export
+  1x  Facilities
+  1x  Fee Reminders
+  1x  Feedback submitted
+  1x  Feedback submitted! Thank you.
+  1x  File
+  1x  Find a Tutor
+  1x  GPA
+  1x  Gallery
+  1x  General school updates
+  1x  Get notified about attendance
+  1x  Grade Updates
+  1x  Grades Detail
+  1x  Grilled Chicken with Rice
+  1x  Group Projects
+  1x  Hardware
+  1x  Help us improve the school experience
+  1x  How are you feeling today?
+  1x  Infrastructure
+  1x  Interactive Campus Map
+  1x  Internship Tracker
+  1x  Issue Title
+  1x  John Doe
+  4x  Join
+  1x  Keep up the healthy lifestyle!
+  1x  Key Locations
+  1x  LIVE
+  1x  Learn More
+  2x  Leave Applications
+  2x  Leave application submitted
+  1x  License: ABC-1234
+  2x  Logged-in Devices
+  1x  Lost & Found
+  1x  Map Placeholder
+  1x  March 2025
+  2x  Mark Attendance
+  2x  Mark all read
+  1x  Marketplace
+  1x  Materials
+  1x  Mental Health Support
+  1x  Mental Wellness
+  1x  Message
+  1x  Message sent!
+  1x  Microphone permission required
+  1x  Mood Tracker
+  1x  Morning Route
+  1x  My Certificates
+  1x  My Exams
+  1x  My Library
+  1x  My Results
+  1x  My Timetable
+  1x  Network
+  1x  New Discussion
+  1x  No active devices
+  1x  No assignments found
+  1x  No attendance records
+  1x  No books found
+  1x  No certificates yet
+  1x  No children enrolled
+  1x  No children linked
+  1x  No classes scheduled
+  1x  No conversations yet
+  1x  No courses found
+  1x  No digital resources available
+  1x  No discussions yet
+  1x  No documents available
+  1x  No documents uploaded
+  1x  No exams scheduled
+  1x  No grades available
+  1x  No grades found
+  1x  No invoices found
+  1x  No leave applications yet
+  1x  No meetings scheduled
+  3x  No messages yet
+  1x  No notices available
+  1x  No notifications
+  1x  No payment history
+  1x  No records for this period
+  1x  No resources found
+  1x  No results available
+  1x  No upcoming events
+  1x  No upcoming exams
+  1x  Notable Alumni
+  1x  Notification Settings
+  1x  Other
+  1x  Our Alumni
+  1x  Overall Average
+  1x  PDF, DOC, DOCX (Max 10MB)
+  1x  Parent-Teacher Meetings
+  1x  Password changed
+  1x  Payment History
+  1x  Payment Method
+  1x  Payment due reminders
+  1x  Payments
+  1x  Performance Tracking
+  1x  Personal Information
+  1x  Phone: +1 234 567 890
+  1x  Please enter complete OTP
+  1x  Please fill all fields
+  1x  Post
+  1x  Prev
+  1x  Previous
+  1x  Previous Applications
+  1x  Price
+  1x  Profile updated
+  1x  Profile updated successfully
+  1x  Program
+  1x  Programs
+  1x  Programs - Coming Soon
+  1x  Progress saved!
+  2x  Rating
+  1x  Reason
+  1x  Reason for Leave
+  1x  Receive grade notifications
+  1x  Recent Documents
+  1x  Recommended Careers
+  1x  Record
+  2x  Record Payment
+  1x  Recording... Tap to stop
+  1x  Refresh
+  2x  Register
+  1x  Register Student
+  1x  Replied message
+  1x  Reply
+  1x  Resend Code
+  1x  Review your upcoming exams
+  1x  Route Details
+  1x  Route: Home → School
+  1x  STUDENT ID
+  2x  Scheduled
+  1x  School Announcements
+  1x  School Calendar
+  2x  School Gallery
+  1x  School Memories
+  2x  Search assignments...
+  2x  Search courses...
+  1x  Search grades...
+  1x  Search items...
+  1x  Search resources...
+  1x  Search students, teachers, courses...
+  1x  Search students...
+  1x  Send a message to start the conversation.
+  1x  Service
+  1x  Share Your Feedback
+  1x  Software
+  1x  Sports Activities
+  1x  Staff
+  1x  Start Discussion
+  1x  Start a conversation with teachers or admin
+  1x  Stock
+  1x  Student Clubs
+  2x  Student ID
+  1x  Study Resources
+  1x  Subject-wise Grades
+  3x  Submit Assignment
+  3x  Submit Feedback
+  1x  Submit Support Ticket
+  2x  Submit Ticket
+  1x  Submit assignment feature
+  1x  System
+  1x  Tap to explore
+  1x  Teachers - Coming Soon
+  1x  Tell us more about your experience...
+  1x  Tell us more...
+  1x  Test Complete!
+  1x  Test Your English
+  1x  Thank you for your feedback!
+  1x  Ticket submitted successfully
+  5x  Title
+  1x  Today's Special
+  1x  Today\
+  1x  Transport Tracking
+  1x  Try Again
+  2x  Type a message...
+  1x  Unsupported message type
+  1x  Update Your Password
+  1x  Upload File
+  1x  Verification code sent again
+  1x  Verify
+  1x  Verify OTP
+  1x  View Submission
+  1x  View course materials
+  2x  Volunteer Opportunities
+  1x  We sent a code to your phone/email
+  1x  Wellness & Fitness
+  1x  Wellness Programs
+  1x  Yesterday
+  1x  Your Wellbeing Matters
+
+=== INTERPOLATED NEW STRINGS (need code-level handling) ===
+  1x   ${tutor.rating}
+        @ lib/screens/student/student_screens.dart:2885
+  1x  $duration months
+        @ lib/screens/students_screen.dart:418
+  6x  $label:
+        @ lib/screens/student/assignments_screen.dart:231
+        @ lib/screens/student/assignments_screen_realtime.dart:236
+        @ lib/screens/student/courses_screen.dart:204
+        @ lib/screens/student/courses_screen_realtime.dart:215
+        @ lib/screens/student/resources_screen_realtime.dart:275
+        @ lib/screens/student/schedule_screen_realtime.dart:213
+  1x  $lessons lessons â€¢ $duration
+        @ lib/screens/student/student_screens.dart:838
+  1x  $match% Match
+        @ lib/screens/student/student_screens.dart:1087
+  1x  $members members
+        @ lib/screens/parent/parent_screens_part2.dart:785
+  1x  $progress% Complete
+        @ lib/screens/student/student_screens.dart:991
+  1x  $subject â€¢ $time
+        @ lib/screens/student/student_screens.dart:1025
+  1x  $subject • ${assignment[
+        @ lib/screens/student/assignments_screen.dart:81
+  1x  $target target
+        @ lib/screens/student/student_screens.dart:3816
+  1x  $time â€¢ $instructor
+        @ lib/screens/student/student_screens.dart:3875
+  1x  $title: $body
+        @ lib/services/notification_service.dart:37
+  1x  $value/$total
+        @ lib/screens/student/student_screens.dart:4014
+  1x  ${(pct * 100).toStringAsFixed(0)}%
+        @ lib/widgets/charts/app_charts.dart:304
+  1x  ${(value * 100).toInt()}%
+        @ lib/components/app_progress.dart:102
+  1x  ${album[
+        @ lib/screens/parent/parent_screens_part3.dart:797
+  1x  ${avgPercentage.toStringAsFixed(1)}%
+        @ lib/screens/student/grades_screen_realtime.dart:107
+  1x  ${avgScore.toStringAsFixed(1)}%
+        @ lib/screens/student/student_screens.dart:1292
+  1x  ${cat[
+        @ lib/screens/parent/parent_screens_part3.dart:629
+  1x  ${cls[
+        @ lib/screens/student/student_screens.dart:930
+  1x  ${club.$4} members
+        @ lib/screens/student/student_screens.dart:2169
+  1x  ${course?[
+        @ lib/screens/student/student_screens.dart:76
+  1x  ${filtered.length}
+        @ lib/screens/student/grades_screen_realtime.dart:122
+  1x  ${grade[
+        @ lib/screens/student/grades_screen_realtime.dart:166
+  1x  ${item.condition} â€¢ ${item.seller}
+        @ lib/screens/student/student_screens.dart:2398
+  1x  ${item.location} â€¢ ${item.date}
+        @ lib/screens/student/student_screens.dart:3219
+  1x  ${item.spots} spots
+        @ lib/screens/parent/parent_screens_part3.dart:496
+  1x  ${item.value.toStringAsFixed(0)}%
+        @ lib/widgets/charts/app_charts.dart:155
+  1x  ${percentage.toStringAsFixed(1)}%
+        @ lib/screens/parent/parent_screens_part2.dart:737
+  1x  ${progress.toInt()}%
+        @ lib/screens/student/courses_screen_realtime.dart:112
+  1x  ${project[
+        @ lib/screens/student/student_screens.dart:1758
+  2x  ${resource[
+        @ lib/screens/student/resources_screen_realtime.dart:123
+        @ lib/screens/student/resources_screen_realtime.dart:131
+  2x  ${widget.level} Test
+        @ lib/screens/english_test_screen.dart:275
+        @ lib/screens/english_test_screen.dart:288
+  1x  Applied to ${program.university}!
+        @ lib/screens/student/student_screens.dart:2083
+  1x  Applied: ${item.appliedDate}
+        @ lib/screens/student/student_screens.dart:1925
+  1x  Class: ${child?[
+        @ lib/screens/parent/parent_screens_part1.dart:76
+  1x  Due: ${_formatDate(assignment[
+        @ lib/screens/student/assignments_screen_realtime.dart:92
+  1x  Due: ${_formatDate(dueDate)}
+        @ lib/screens/student/assignments_screen.dart:82
+  1x  Due: ${_formatDate(project[
+        @ lib/screens/student/student_screens.dart:1776
+  8x  Error: $e
+        @ lib/screens/chat_conversation_screen.dart:116
+        @ lib/screens/chat_screen.dart:81
+        @ lib/screens/parent/parent_screens_part3.dart:220
+        @ lib/screens/parent/parent_screens_part3.dart:1072
+        @ lib/screens/student/academic_history_screen.dart:363
+        @ lib/screens/student/assignments_screen.dart:197
+        @ lib/screens/student/courses_screen.dart:182
+        @ lib/screens/student/student_screens.dart:4559
+  4x  Error: $err
+        @ lib/screens/attendance_screen.dart:94
+        @ lib/screens/books_screen.dart:37
+        @ lib/screens/payments_screen.dart:229
+        @ lib/screens/students_screen.dart:315
+  6x  Error: $error
+        @ lib/screens/student/assignments_screen_realtime.dart:125
+        @ lib/screens/student/attendance_screen_realtime.dart:190
+        @ lib/screens/student/courses_screen_realtime.dart:144
+        @ lib/screens/student/grades_screen_realtime.dart:184
+        @ lib/screens/student/resources_screen_realtime.dart:152
+        @ lib/screens/student/schedule_screen_realtime.dart:158
+  5x  Error: ${snapshot.error}
+        @ lib/screens/student/assignments_screen.dart:23
+        @ lib/screens/student/courses_screen.dart:23
+        @ lib/screens/student/student_screens.dart:4102
+        @ lib/screens/student/student_screens.dart:4387
+        @ lib/screens/student/student_screens.dart:4718
+  1x  Failed to submit: $e
+        @ lib/screens/schema_pages.dart:198
+  1x  Generated: ${reportData[
+        @ lib/services/report_service.dart:98
+  1x  Grade: $grade
+        @ lib/screens/parent/parent_screens_part2.dart:734
+  1x  ID: ${child?[
+        @ lib/screens/parent/parent_screens_part1.dart:77
+  1x  Mood logged: $label
+        @ lib/screens/student/student_screens.dart:3914
+  1x  Posted: ${_formatDate(notice[
+        @ lib/screens/parent/parent_screens_part1.dart:903
+  1x  Recording failed: $e
+        @ lib/screens/chat_conversation_screen.dart:662
+  1x  Replying to ${_replyingTo!.senderName ?? 
+        @ lib/screens/chat_conversation_screen.dart:137
+  1x  Report: ${reportData[
+        @ lib/services/report_service.dart:94
+  1x  Send failed: $e
+        @ lib/screens/chat_conversation_screen.dart:480
+  1x  Signed up for ${item.title}!
+        @ lib/screens/parent/parent_screens_part3.dart:521
+  1x  Total Records: ${reportData[
+        @ lib/services/report_service.dart:99
+  1x  Update failed: $e
+        @ lib/screens/change_password_screen.dart:44
+  2x  Upload failed: $e
+        @ lib/screens/chat_conversation_screen.dart:571
+        @ lib/screens/chat_conversation_screen.dart:614
+  1x  You scored $_score out of ${questions.length}
+        @ lib/screens/english_test_screen.dart:233
+  2x  \$${item.price.toStringAsFixed(2)}
+        @ lib/screens/student/student_screens.dart:2404
+        @ lib/screens/student/student_screens.dart:3370
+  1x  \$${tutor.hourlyRate}/hr
+        @ lib/screens/student/student_screens.dart:2890
+  1x  \$8.50
+        @ lib/screens/student/student_screens.dart:3323

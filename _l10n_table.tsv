@@ -1,0 +1,397 @@
+NEW	tutor_rating	 ${tutor.rating}	1
+NEW	duration_months	$duration months	1
+NEW	label	$label:	6
+NEW	lessons_lessons_duration	$lessons lessons â€¢ $duration	1
+NEW	match_match	$match% Match	1
+NEW	members_members	$members members	1
+NEW	progress_complete	$progress% Complete	1
+NEW	subject_time	$subject â€¢ $time	1
+NEW	subject_assignment	$subject • ${assignment[	1
+NEW	target_target	$target target	1
+NEW	time_instructor	$time â€¢ $instructor	1
+NEW	title_body	$title: $body	1
+NEW	value_total	$value/$total	1
+NEW	pct_100_tostringasfixed_0	${(pct * 100).toStringAsFixed(0)}%	1
+NEW	value_100_toint	${(value * 100).toInt()}%	1
+NEW	album	${album[	1
+NEW	avgpercentage_tostringasfixed_1	${avgPercentage.toStringAsFixed(1)}%	1
+NEW	avgscore_tostringasfixed_1	${avgScore.toStringAsFixed(1)}%	1
+NEW	cat	${cat[	1
+NEW	cls	${cls[	1
+NEW	club_4_members	${club.$4} members	1
+NEW	course	${course?[	1
+NEW	filtered_length	${filtered.length}	1
+NEW	grade	${grade[	1
+NEW	item_condition_item_seller	${item.condition} â€¢ ${item.seller}	1
+NEW	item_location_item_date	${item.location} â€¢ ${item.date}	1
+NEW	item_spots_spots	${item.spots} spots	1
+NEW	item_value_tostringasfixed_0	${item.value.toStringAsFixed(0)}%	1
+NEW	percentage_tostringasfixed_1	${percentage.toStringAsFixed(1)}%	1
+NEW	progress_toint	${progress.toInt()}%	1
+NEW	project	${project[	1
+NEW	resource	${resource[	2
+NEW	widget_level_test	${widget.level} Test	2
+NEW	2_30_pm_3_30_pm	2:30 PM - 3:30 PM	1
+NEW	500_successful_graduates	500+ successful graduates	1
+NEW	7_30_am_8_30_am	7:30 AM - 8:30 AM	1
+NEW	active	ACTIVE	1
+REUSE	home_about	About	1
+REUSE	bp_about_emis	About EMIS	1
+NEW	academic	Academic	2
+REUSE	sp_academic_history	Academic History	1
+NEW	academic_year_2024_2025	Academic Year 2024-2025	1
+NEW	access_resources_and_support_for_your_mental_health	Access resources and support for your mental health	1
+REUSE	account	Account	2
+NEW	account_information	Account Information	1
+REUSE	sp_achievements	Achievements	1
+REUSE	pp_active	Active	1
+REUSE	add	Add	2
+NEW	add_book	Add Book	2
+NEW	add_new_application	Add New Application	1
+NEW	add_student	Add Student	1
+NEW	add_any_notes_for_your_instructor	Add any notes for your instructor...	1
+NEW	additional_details	Additional Details	1
+NEW	additional_notes	Additional Notes	1
+REUSE	home_address	Address	1
+NEW	ads_hub	Ads Hub	1
+NEW	ads_hub_coming_soon	Ads Hub - Coming Soon	1
+NEW	afternoon_route	Afternoon Route	1
+NEW	albums	Albums	1
+NEW	all_notifications_marked_as_read	All notifications marked as read	1
+NEW	alumni_network	Alumni Network	2
+REUSE	payment_amount	Amount	1
+NEW	applications	Applications	1
+NEW	applied_to_program_university	Applied to ${program.university}!	1
+NEW	applied_item_applieddate	Applied: ${item.appliedDate}	1
+REUSE	apply	Apply	1
+NEW	apply_for_leave	Apply for Leave	2
+NEW	assignment_details	Assignment Details	1
+NEW	assignment_submitted_successfully	Assignment submitted successfully!	2
+REUSE	pp_attendance_col	Attendance	1
+REUSE	notif_attendance_alerts	Attendance Alerts	1
+NEW	attendance_calendar	Attendance Calendar	1
+NEW	attendance_report	Attendance Report	1
+NEW	available	Available	1
+REUSE	sp_average	Average	1
+NEW	back_to_dashboard	Back to Dashboard	1
+NEW	book_session	Book Session	1
+REUSE	nav_books	Books	1
+NEW	brief_title	Brief title	1
+NEW	brief_title_of_your_feedback	Brief title of your feedback	1
+NEW	browse_through_our_photo_gallery	Browse through our photo gallery	1
+NEW	bus_42	Bus #42	1
+NEW	busy	Busy	1
+NEW	buy	Buy	1
+NEW	camera	Camera	1
+NEW	campus_map	Campus Map	1
+REUSE	cancel	Cancel	5
+NEW	canteen_menu	Canteen Menu	1
+REUSE	sp_career_guidance	Career Guidance	1
+REUSE	pp_category_col	Category	4
+REUSE	bp_change_password	Change Password	3
+NEW	change_file	Change file	1
+REUSE	bp_chat	Chat	2
+NEW	class_id	Class ID	1
+NEW	class_child	Class: ${child?[	1
+REUSE	close	Close	1
+NEW	co_curricular_activities	Co-curricular Activities	1
+NEW	communication	Communication	1
+NEW	complaints_feedback	Complaints & Feedback	1
+REUSE	confirm_password	Confirm Password	1
+REUSE	admin_content	Content	1
+NEW	continue_learning	Continue Learning	1
+NEW	copy	Copy	1
+REUSE	sp_course	Course	1
+REUSE	course_details	Course Details	1
+NEW	course_modules	Course Modules	1
+REUSE	bp_courses	Courses	1
+NEW	create_task	Create Task	1
+NEW	current	Current	1
+REUSE	current_password	Current Password	1
+NEW	daily_records	Daily Records	1
+REUSE	dashboard	Dashboard	1
+NEW	data	Data:	1
+REUSE	form_delete	Delete	3
+NEW	delete_account	Delete Account?	1
+REUSE	form_description	Description	2
+REUSE	sp_details	Details	3
+REUSE	sp_digital_library	Digital Library	1
+NEW	discount	Discount	1
+NEW	discover_your_career_path	Discover Your Career Path	1
+NEW	discussion_forum	Discussion Forum	1
+NEW	document_categories	Document Categories	1
+REUSE	pp_documents	Documents	1
+NEW	download	Download	1
+NEW	download_certificate	Download Certificate	1
+NEW	download_resource_feature	Download resource feature	1
+NEW	driver_information	Driver Information	1
+NEW	due_formatdate_assignment	Due: ${_formatDate(assignment[	1
+NEW	due_formatdate_duedate	Due: ${_formatDate(dueDate)}	1
+NEW	due_formatdate_project	Due: ${_formatDate(project[	1
+REUSE	course_duration	Duration	1
+NEW	earlier	Earlier	1
+NEW	emergency_contacts	Emergency Contacts	1
+REUSE	home_subject_english	English	1
+NEW	enjoy_your_free_day	Enjoy your free day!	1
+REUSE	pp_enrolled	Enrolled	1
+NEW	enter_verification_code	Enter Verification Code	1
+NEW	error_loading_course	Error loading course	1
+NEW	error_loading_data	Error loading data	2
+NEW	error_e	Error: $e	8
+NEW	error_err	Error: $err	4
+NEW	error_error	Error: $error	6
+NEW	error_snapshot_error	Error: ${snapshot.error}	5
+NEW	exam_preparation	Exam Preparation	1
+NEW	exam_ready	Exam Ready?	1
+NEW	exchange_programs	Exchange Programs	1
+NEW	export	Export	2
+NEW	facilities	Facilities	1
+NEW	failed_to_submit_e	Failed to submit: $e	1
+REUSE	sp_fee_details	Fee Details	1
+NEW	fee_reminders	Fee Reminders	1
+REUSE	sp_feedback	Feedback	1
+NEW	feedback_submitted	Feedback submitted	1
+NEW	feedback_submitted_thank_you	Feedback submitted! Thank you.	1
+NEW	file	File	1
+NEW	find_a_tutor	Find a Tutor	1
+REUSE	full_name	Full Name	1
+NEW	gpa	GPA	1
+NEW	gallery	Gallery	1
+REUSE	pp_general	General	2
+NEW	general_school_updates	General school updates	1
+NEW	generated_reportdata	Generated: ${reportData[	1
+NEW	get_notified_about_attendance	Get notified about attendance	1
+NEW	grade_updates	Grade Updates	1
+NEW	grade_grade	Grade: $grade	1
+NEW	grades_detail	Grades Detail	1
+NEW	grilled_chicken_with_rice	Grilled Chicken with Rice	1
+NEW	group_projects	Group Projects	1
+NEW	hardware	Hardware	1
+REUSE	pp_health_records	Health Records	1
+REUSE	bp_help_support	Help & Support	1
+NEW	help_us_improve_the_school_experience	Help us improve the school experience	1
+NEW	how_are_you_feeling_today	How are you feeling today?	1
+NEW	id_child	ID: ${child?[	1
+NEW	infrastructure	Infrastructure	1
+NEW	interactive_campus_map	Interactive Campus Map	1
+NEW	internship_tracker	Internship Tracker	1
+REUSE	pp_invoices	Invoices	1
+NEW	issue_title	Issue Title	1
+NEW	john_doe	John Doe	1
+NEW	join	Join	4
+NEW	keep_up_the_healthy_lifestyle	Keep up the healthy lifestyle!	1
+NEW	key_locations	Key Locations	1
+NEW	live	LIVE	1
+REUSE	language_label	Language	1
+NEW	learn_more	Learn More	1
+NEW	leave_applications	Leave Applications	2
+NEW	leave_application_submitted	Leave application submitted	2
+NEW	license_abc_1234	License: ABC-1234	1
+NEW	logged_in_devices	Logged-in Devices	2
+REUSE	logout	Logout	1
+NEW	lost_found	Lost & Found	1
+NEW	map_placeholder	Map Placeholder	1
+NEW	march_2025	March 2025	1
+NEW	mark_attendance	Mark Attendance	2
+NEW	mark_all_read	Mark all read	2
+NEW	marketplace	Marketplace	1
+REUSE	course_materials	Materials	1
+NEW	mental_health_support	Mental Health Support	1
+NEW	mental_wellness	Mental Wellness	1
+NEW	message	Message	1
+NEW	message_sent	Message sent!	1
+REUSE	bp_messages	Messages	2
+NEW	microphone_permission_required	Microphone permission required	1
+NEW	mood_tracker	Mood Tracker	1
+NEW	mood_logged_label	Mood logged: $label	1
+NEW	morning_route	Morning Route	1
+NEW	my_certificates	My Certificates	1
+REUSE	bp_my_children	My Children	1
+REUSE	sp_my_documents	My Documents	1
+NEW	my_exams	My Exams	1
+NEW	my_library	My Library	1
+REUSE	sp_my_profile	My Profile	2
+NEW	my_results	My Results	1
+NEW	my_timetable	My Timetable	1
+NEW	network	Network	1
+NEW	new_discussion	New Discussion	1
+REUSE	new_password	New Password	1
+REUSE	next	Next	1
+NEW	no_active_devices	No active devices	1
+NEW	no_assignments_found	No assignments found	1
+NEW	no_attendance_records	No attendance records	1
+NEW	no_books_found	No books found	1
+NEW	no_certificates_yet	No certificates yet	1
+NEW	no_children_enrolled	No children enrolled	1
+NEW	no_children_linked	No children linked	1
+NEW	no_classes_scheduled	No classes scheduled	1
+NEW	no_conversations_yet	No conversations yet	1
+REUSE	course_no_courses	No courses found	1
+NEW	no_digital_resources_available	No digital resources available	1
+NEW	no_discussions_yet	No discussions yet	1
+NEW	no_documents_available	No documents available	1
+NEW	no_documents_uploaded	No documents uploaded	1
+NEW	no_exams_scheduled	No exams scheduled	1
+NEW	no_grades_available	No grades available	1
+NEW	no_grades_found	No grades found	1
+NEW	no_invoices_found	No invoices found	1
+NEW	no_leave_applications_yet	No leave applications yet	1
+NEW	no_meetings_scheduled	No meetings scheduled	1
+NEW	no_messages_yet	No messages yet	3
+NEW	no_notices_available	No notices available	1
+REUSE	notif_no_notifications	No notifications	1
+NEW	no_payment_history	No payment history	1
+NEW	no_records_for_this_period	No records for this period	1
+NEW	no_resources_found	No resources found	1
+NEW	no_results_available	No results available	1
+NEW	no_upcoming_events	No upcoming events	1
+NEW	no_upcoming_exams	No upcoming exams	1
+NEW	notable_alumni	Notable Alumni	1
+REUSE	bp_notice_board	Notice Board	1
+NEW	notification_settings	Notification Settings	1
+REUSE	notifications_title	Notifications	3
+REUSE	sp_online_classes	Online Classes	1
+NEW	other	Other	1
+NEW	our_alumni	Our Alumni	1
+REUSE	home_menu_our_story	Our Story	1
+NEW	overall_average	Overall Average	1
+NEW	pdf_doc_docx_max_10mb	PDF, DOC, DOCX (Max 10MB)	1
+NEW	parent_teacher_meetings	Parent-Teacher Meetings	1
+NEW	password_changed	Password changed	1
+REUSE	payment_history	Payment History	1
+REUSE	payment_method	Payment Method	1
+NEW	payment_due_reminders	Payment due reminders	1
+REUSE	payment_title	Payments	1
+NEW	performance_tracking	Performance Tracking	1
+NEW	personal_information	Personal Information	1
+REUSE	home_phone	Phone	1
+NEW	phone_1_234_567_890	Phone: +1 234 567 890	1
+REUSE	sp_placement_test	Placement Test	1
+NEW	please_enter_complete_otp	Please enter complete OTP	1
+NEW	please_fill_all_fields	Please fill all fields	1
+NEW	post	Post	1
+NEW	posted_formatdate_notice	Posted: ${_formatDate(notice[	1
+NEW	prev	Prev	1
+NEW	previous	Previous	1
+NEW	previous_applications	Previous Applications	1
+REUSE	course_price	Price	1
+REUSE	sp_privacy_security	Privacy & Security	1
+NEW	profile_updated	Profile updated	1
+NEW	profile_updated_successfully	Profile updated successfully	1
+NEW	program	Program	1
+NEW	programs	Programs	1
+NEW	programs_coming_soon	Programs - Coming Soon	1
+NEW	progress_saved	Progress saved!	1
+REUSE	review_rating	Rating	2
+NEW	reason	Reason	1
+NEW	reason_for_leave	Reason for Leave	1
+NEW	receive_grade_notifications	Receive grade notifications	1
+NEW	recent_documents	Recent Documents	1
+NEW	recommended_careers	Recommended Careers	1
+NEW	record	Record	1
+REUSE	payment_add	Record Payment	2
+NEW	recording_failed_e	Recording failed: $e	1
+NEW	recording_tap_to_stop	Recording... Tap to stop	1
+NEW	refresh	Refresh	1
+NEW	register	Register	2
+NEW	register_student	Register Student	1
+NEW	replied_message	Replied message	1
+NEW	reply	Reply	1
+NEW	replying_to_replyingto_sendername	Replying to ${_replyingTo!.senderName ?? 	1
+REUSE	pp_report_cards	Report Cards	1
+NEW	report_reportdata	Report: ${reportData[	1
+NEW	resend_code	Resend Code	1
+REUSE	sp_resources	Resources	1
+REUSE	retry	Retry	8
+NEW	review_your_upcoming_exams	Review your upcoming exams	1
+NEW	route_details	Route Details	1
+NEW	route_home_school	Route: Home → School	1
+NEW	student_id	STUDENT ID	1
+NEW	scheduled	Scheduled	2
+REUSE	sp_scholarships	Scholarships	1
+NEW	school_announcements	School Announcements	1
+NEW	school_calendar	School Calendar	1
+REUSE	pp_school_events	School Events	1
+NEW	school_gallery	School Gallery	2
+NEW	school_memories	School Memories	1
+NEW	search_assignments	Search assignments...	2
+NEW	search_courses	Search courses...	2
+NEW	search_grades	Search grades...	1
+NEW	search_items	Search items...	1
+NEW	search_resources	Search resources...	1
+NEW	search_students_teachers_courses	Search students, teachers, courses...	1
+NEW	search_students	Search students...	1
+NEW	send_a_message_to_start_the_conversation	Send a message to start the conversation.	1
+NEW	send_failed_e	Send failed: $e	1
+NEW	service	Service	1
+REUSE	bp_settings	Settings	1
+NEW	share_your_feedback	Share Your Feedback	1
+REUSE	sign_up	Sign Up	1
+NEW	signed_up_for_item_title	Signed up for ${item.title}!	1
+NEW	software	Software	1
+REUSE	pp_error_title	Something went wrong	1
+NEW	sports_activities	Sports Activities	1
+NEW	staff	Staff	1
+NEW	start_discussion	Start Discussion	1
+NEW	start_a_conversation_with_teachers_or_admin	Start a conversation with teachers or admin	1
+REUSE	pp_status_col	Status	1
+NEW	stock	Stock	1
+NEW	student_clubs	Student Clubs	1
+NEW	student_id	Student ID	2
+REUSE	home_students	Students	1
+REUSE	sp_study_materials	Study Materials	1
+REUSE	sp_study_planner	Study Planner	1
+NEW	study_resources	Study Resources	1
+REUSE	sp_subject_progress	Subject Progress	1
+NEW	subject_wise_grades	Subject-wise Grades	1
+REUSE	sp_submit	Submit	2
+REUSE	home_submit_application	Submit Application	1
+NEW	submit_assignment	Submit Assignment	3
+NEW	submit_feedback	Submit Feedback	3
+NEW	submit_support_ticket	Submit Support Ticket	1
+NEW	submit_ticket	Submit Ticket	2
+NEW	submit_assignment_feature	Submit assignment feature	1
+NEW	system	System	1
+NEW	tap_to_explore	Tap to explore	1
+REUSE	sp_teacher	Teacher	1
+REUSE	teachers	Teachers	1
+NEW	teachers_coming_soon	Teachers - Coming Soon	1
+NEW	tell_us_more_about_your_experience	Tell us more about your experience...	1
+NEW	tell_us_more	Tell us more...	1
+NEW	test_complete	Test Complete!	1
+NEW	test_your_english	Test Your English	1
+NEW	thank_you_for_your_feedback	Thank you for your feedback!	1
+NEW	ticket_submitted_successfully	Ticket submitted successfully	1
+REUSE	form_title	Title	5
+REUSE	sp_today	Today	2
+NEW	today_s_special	Today's Special	1
+NEW	today	Today\	1
+REUSE	sp_tomorrow	Tomorrow	1
+NEW	total_records_reportdata	Total Records: ${reportData[	1
+NEW	transport_tracking	Transport Tracking	1
+NEW	try_again	Try Again	1
+NEW	type_a_message	Type a message...	2
+NEW	unsupported_message_type	Unsupported message type	1
+REUSE	pp_upcoming_exams	Upcoming Exams	1
+NEW	update_your_password	Update Your Password	1
+NEW	update_failed_e	Update failed: $e	1
+NEW	upload_file	Upload File	1
+NEW	upload_failed_e	Upload failed: $e	2
+NEW	verification_code_sent_again	Verification code sent again	1
+NEW	verify	Verify	1
+NEW	verify_otp	Verify OTP	1
+REUSE	version	Version 1.0.0	1
+REUSE	sp_view_grades	View Grades	1
+NEW	view_submission	View Submission	1
+NEW	view_course_materials	View course materials	1
+NEW	volunteer_opportunities	Volunteer Opportunities	2
+NEW	we_sent_a_code_to_your_phone_email	We sent a code to your phone/email	1
+NEW	wellness_fitness	Wellness & Fitness	1
+NEW	wellness_programs	Wellness Programs	1
+NEW	yesterday	Yesterday	1
+NEW	you_scored_score_out_of_questions_length	You scored $_score out of ${questions.length}	1
+NEW	your_wellbeing_matters	Your Wellbeing Matters	1
+NEW	item_price_tostringasfixed_2	\$${item.price.toStringAsFixed(2)}	2
+NEW	tutor_hourlyrate_hr	\$${tutor.hourlyRate}/hr	1
+NEW	8_50	\$8.50	1
+# TOTAL 396 REUSE 89 NEW 307

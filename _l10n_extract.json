@@ -1,0 +1,2050 @@
+{
+ "lib/components/app_progress.dart": [
+  [
+   102,
+   "Text('${(value * 100).toInt()}%', style: TextStyle("
+  ]
+ ],
+ "lib/screens/attendance_screen.dart": [
+  [
+   28,
+   "label: const Text('Mark Attendance'),"
+  ],
+  [
+   78,
+   "Text('No attendance records',"
+  ],
+  [
+   94,
+   "error: (err, stack) => Center(child: Text('Error: $err')),"
+  ],
+  [
+   123,
+   "const Text('Mark Attendance'),"
+  ],
+  [
+   134,
+   "labelText: 'Student ID',"
+  ],
+  [
+   145,
+   "labelText: 'Class ID',"
+  ],
+  [
+   156,
+   "labelText: 'Status',"
+  ]
+ ],
+ "lib/screens/books_screen.dart": [
+  [
+   16,
+   "appBar: AppBar(title: const Text('Books')),"
+  ],
+  [
+   20,
+   "label: const Text('Add Book'),"
+  ],
+  [
+   27,
+   "child: Text('No books found',"
+  ],
+  [
+   37,
+   "error: (err, stack) => Center(child: Text('Error: $err')),"
+  ],
+  [
+   52,
+   "title: const Text('Add Book'),"
+  ],
+  [
+   61,
+   "decoration: const InputDecoration(labelText: 'Title'),"
+  ],
+  [
+   68,
+   "labelText: 'Price', prefixText: 'PKR '),"
+  ],
+  [
+   75,
+   "decoration: const InputDecoration(labelText: 'Stock'),"
+  ],
+  [
+   86,
+   "child: const Text('Cancel')),"
+  ],
+  [
+   103,
+   "child: const Text('Add'),"
+  ]
+ ],
+ "lib/screens/change_password_screen.dart": [
+  [
+   38,
+   "const SnackBar(content: Text('Password changed')),"
+  ],
+  [
+   44,
+   "SnackBar(content: Text('Update failed: $e')),"
+  ],
+  [
+   55,
+   "appBar: AppBar(title: const Text('Change Password')),"
+  ],
+  [
+   74,
+   "Text('Update Your Password', style: Theme.of(context).textTheme.headlineSmall),"
+  ],
+  [
+   78,
+   "decoration: const InputDecoration(labelText: 'Current Password'),"
+  ],
+  [
+   85,
+   "decoration: const InputDecoration(labelText: 'New Password'),"
+  ],
+  [
+   92,
+   "decoration: const InputDecoration(labelText: 'Confirm Password'),"
+  ],
+  [
+   101,
+   "child: _loading ? const CircularProgressIndicator() : const Text('Change Password'),"
+  ]
+ ],
+ "lib/screens/chat_conversation_screen.dart": [
+  [
+   68,
+   "title: const Text('Chat'),"
+  ],
+  [
+   93,
+   "Text('No messages yet',"
+  ],
+  [
+   97,
+   "Text('Send a message to start the conversation.'),"
+  ],
+  [
+   116,
+   "error: (e, _) => Center(child: Text('Error: $e')),"
+  ],
+  [
+   137,
+   "Text('Replying to ${_replyingTo!.senderName ?? 'Unknown'}',"
+  ],
+  [
+   248,
+   "child: const Text('Replied message',"
+  ],
+  [
+   273,
+   "return Text('Unsupported message type',"
+  ],
+  [
+   403,
+   "child: Text('Recording... Tap to stop',"
+  ],
+  [
+   424,
+   "hintText: 'Type a message...',"
+  ],
+  [
+   480,
+   ".showSnackBar(SnackBar(content: Text('Send failed: $e')));"
+  ],
+  [
+   493,
+   "title: const Text('Camera'),"
+  ],
+  [
+   501,
+   "title: const Text('Gallery'),"
+  ],
+  [
+   509,
+   "title: const Text('File'),"
+  ],
+  [
+   571,
+   ".showSnackBar(SnackBar(content: Text('Upload failed: $e')));"
+  ],
+  [
+   614,
+   ".showSnackBar(SnackBar(content: Text('Upload failed: $e')));"
+  ],
+  [
+   624,
+   "const SnackBar(content: Text('Microphone permission required')),"
+  ],
+  [
+   662,
+   ".showSnackBar(SnackBar(content: Text('Recording failed: $e')));"
+  ],
+  [
+   675,
+   "title: const Text('Reply'),"
+  ],
+  [
+   683,
+   "title: const Text('Copy'),"
+  ],
+  [
+   694,
+   "title: const Text('Delete',"
+  ]
+ ],
+ "lib/screens/chat_screen.dart": [
+  [
+   18,
+   "title: const Text('Chat'),"
+  ],
+  [
+   33,
+   "Text('No conversations yet',"
+  ],
+  [
+   81,
+   "error: (e, _) => Center(child: Text('Error: $e')),"
+  ]
+ ],
+ "lib/screens/english_test_screen.dart": [
+  [
+   14,
+   "title: const Text('Test Your English'),"
+  ],
+  [
+   229,
+   "title: const Text('Test Complete!'),"
+  ],
+  [
+   233,
+   "Text('You scored $_score out of ${questions.length}'),"
+  ],
+  [
+   247,
+   "child: const Text('Close'),"
+  ],
+  [
+   275,
+   "title: Text('${widget.level} Test'),"
+  ],
+  [
+   288,
+   "title: Text('${widget.level} Test'),"
+  ]
+ ],
+ "lib/screens/enhanced_dashboard_screen.dart": [
+  [
+   261,
+   "title: const Text('Dashboard'),"
+  ]
+ ],
+ "lib/screens/feature_hub_screen.dart": [
+  [
+   185,
+   "label: const Text('Create Task'),"
+  ],
+  [
+   190,
+   "label: const Text('Export'),"
+  ]
+ ],
+ "lib/screens/notifications_screen.dart": [
+  [
+   16,
+   "title: const Text('Notifications'),"
+  ],
+  [
+   29,
+   "child: const Text('Mark all read'),"
+  ],
+  [
+   51,
+   "Text('No notifications',"
+  ]
+ ],
+ "lib/screens/otp_verification_screen.dart": [
+  [
+   33,
+   "const SnackBar(content: Text('Please enter complete OTP')),"
+  ],
+  [
+   50,
+   "appBar: AppBar(title: const Text('Verify OTP')),"
+  ],
+  [
+   58,
+   "Text('Enter Verification Code', style: theme.textTheme.headlineSmall),"
+  ],
+  [
+   60,
+   "Text('We sent a code to your phone/email', style: theme.textTheme.bodyMedium),"
+  ],
+  [
+   81,
+   "child: _loading ? const CircularProgressIndicator() : const Text('Verify'),"
+  ],
+  [
+   88,
+   "const SnackBar(content: Text('Verification code sent again')),"
+  ],
+  [
+   91,
+   "child: const Text('Resend Code'),"
+  ]
+ ],
+ "lib/screens/our_story_screen.dart": [
+  [
+   47,
+   "title: const Text('Our Story'),"
+  ]
+ ],
+ "lib/screens/payments_screen.dart": [
+  [
+   20,
+   "title: const Text('Payments'),"
+  ],
+  [
+   32,
+   "label: const Text('Record Payment'),"
+  ],
+  [
+   229,
+   "error: (err, stack) => Center(child: Text('Error: $err')),"
+  ],
+  [
+   260,
+   "title: const Text('Record Payment'),"
+  ],
+  [
+   269,
+   "labelText: 'Amount',"
+  ],
+  [
+   290,
+   "decoration: const InputDecoration(labelText: 'Payment Method'),"
+  ],
+  [
+   298,
+   "child: const Text('Cancel'),"
+  ],
+  [
+   316,
+   "child: const Text('Record'),"
+  ]
+ ],
+ "lib/screens/programs_screen.dart": [
+  [
+   9,
+   "appBar: AppBar(title: const Text('Programs')),"
+  ],
+  [
+   10,
+   "body: const Center(child: Text('Programs - Coming Soon')),"
+  ]
+ ],
+ "lib/screens/schema_pages.dart": [
+  [
+   16,
+   "title: const Text('Digital Library'),"
+  ],
+  [
+   36,
+   "Text('No digital resources available',"
+  ],
+  [
+   91,
+   "title: const Text('My Documents'),"
+  ],
+  [
+   112,
+   "Text('No documents uploaded',"
+  ],
+  [
+   187,
+   "const SnackBar(content: Text('Leave application submitted')),"
+  ],
+  [
+   198,
+   "SnackBar(content: Text('Failed to submit: $e')),"
+  ],
+  [
+   212,
+   "title: const Text('Leave Applications'),"
+  ],
+  [
+   231,
+   "const Center(child: Text('No leave applications yet')),"
+  ],
+  [
+   306,
+   "labelText: 'Reason',"
+  ],
+  [
+   320,
+   ": const Text('Apply for Leave'),"
+  ],
+  [
+   352,
+   "title: const Text('Invoices'),"
+  ],
+  [
+   372,
+   "Text('No invoices found',"
+  ],
+  [
+   436,
+   "title: const Text('About EMIS'),"
+  ],
+  [
+   520,
+   "title: const Text('Messages'),"
+  ],
+  [
+   548,
+   "Text('No messages yet',"
+  ]
+ ],
+ "lib/screens/students_screen.dart": [
+  [
+   65,
+   "title: const Text('Students'),"
+  ],
+  [
+   77,
+   "label: const Text('Add Student'),"
+  ],
+  [
+   267,
+   "hintText: 'Search students...',"
+  ],
+  [
+   315,
+   "child: Text('Error: $err', textAlign: TextAlign.center),"
+  ],
+  [
+   373,
+   "title: const Text('Register Student'),"
+  ],
+  [
+   386,
+   "labelText: 'Program',"
+  ],
+  [
+   411,
+   "labelText: 'Duration',"
+  ],
+  [
+   418,
+   "child: Text('$duration months'),"
+  ],
+  [
+   433,
+   "labelText: 'Discount',"
+  ],
+  [
+   484,
+   "child: const Text('Cancel'),"
+  ],
+  [
+   511,
+   "child: const Text('Register'),"
+  ]
+ ],
+ "lib/screens/teachers_screen.dart": [
+  [
+   9,
+   "appBar: AppBar(title: const Text('Teachers')),"
+  ],
+  [
+   10,
+   "body: const Center(child: Text('Teachers - Coming Soon')),"
+  ]
+ ],
+ "lib/screens/ads/ads_pages.dart": [
+  [
+   9,
+   "appBar: AppBar(title: const Text('Ads Hub')),"
+  ],
+  [
+   10,
+   "body: const Center(child: Text('Ads Hub - Coming Soon')),"
+  ]
+ ],
+ "lib/screens/parent/parent_screens_part1.dart": [
+  [
+   23,
+   "title: const Text('My Children'),"
+  ],
+  [
+   46,
+   "Text('No children linked',"
+  ],
+  [
+   76,
+   "Text('Class: ${child?['class_id'] ?? 'N/A'}'),"
+  ],
+  [
+   77,
+   "Text('ID: ${child?['student_code'] ?? 'N/A'}'),"
+  ],
+  [
+   175,
+   "label: const Text('View Grades'),"
+  ],
+  [
+   185,
+   "label: const Text('Attendance'),"
+  ],
+  [
+   219,
+   "title: const Text('Payment History'),"
+  ],
+  [
+   235,
+   "return const Center(child: Text('No payment history'));"
+  ],
+  [
+   298,
+   "title: const Text('Parent-Teacher Meetings'),"
+  ],
+  [
+   322,
+   "Text('No meetings scheduled',"
+  ],
+  [
+   377,
+   "child: const Text('Join'),"
+  ],
+  [
+   408,
+   "title: const Text('School Calendar'),"
+  ],
+  [
+   417,
+   "const Text('Academic Year 2024-2025',"
+  ],
+  [
+   460,
+   "title: const Text('Transport Tracking'),"
+  ],
+  [
+   486,
+   "Text('Bus #42',"
+  ],
+  [
+   491,
+   "Text('Route: Home → School',"
+  ],
+  [
+   527,
+   "const Text('Route Details',"
+  ],
+  [
+   533,
+   "title: const Text('Morning Route'),"
+  ],
+  [
+   534,
+   "subtitle: const Text('7:30 AM - 8:30 AM'),"
+  ],
+  [
+   536,
+   "label: Text('Active'), backgroundColor: Colors.black87),"
+  ],
+  [
+   542,
+   "title: const Text('Afternoon Route'),"
+  ],
+  [
+   543,
+   "subtitle: const Text('2:30 PM - 3:30 PM'),"
+  ],
+  [
+   544,
+   "trailing: const Chip(label: Text('Scheduled')),"
+  ],
+  [
+   550,
+   "const Text('Driver Information',"
+  ],
+  [
+   565,
+   "const Text('John Doe',"
+  ],
+  [
+   568,
+   "Text('License: ABC-1234',"
+  ],
+  [
+   570,
+   "Text('Phone: +1 234 567 890',"
+  ],
+  [
+   597,
+   "title: const Text('Health Records'),"
+  ],
+  [
+   670,
+   "title: const Text('Leave Applications'),"
+  ],
+  [
+   680,
+   "const Text('Apply for Leave',"
+  ],
+  [
+   687,
+   "labelText: 'Reason for Leave',"
+  ],
+  [
+   717,
+   "content: Text('Leave application submitted'),"
+  ],
+  [
+   722,
+   "label: const Text('Submit Application'),"
+  ],
+  [
+   729,
+   "const Text('Previous Applications',"
+  ],
+  [
+   777,
+   "title: const Text('Complaints & Feedback'),"
+  ],
+  [
+   786,
+   "const Text('Submit Feedback',"
+  ],
+  [
+   792,
+   "labelText: 'Category',"
+  ],
+  [
+   797,
+   "DropdownMenuItem(value: 'academic', child: Text('Academic')),"
+  ],
+  [
+   799,
+   "value: 'infrastructure', child: Text('Infrastructure')),"
+  ],
+  [
+   800,
+   "DropdownMenuItem(value: 'staff', child: Text('Staff')),"
+  ],
+  [
+   801,
+   "DropdownMenuItem(value: 'general', child: Text('General')),"
+  ],
+  [
+   809,
+   "labelText: 'Title',"
+  ],
+  [
+   819,
+   "labelText: 'Description',"
+  ],
+  [
+   829,
+   "content: Text('Feedback submitted'),"
+  ],
+  [
+   834,
+   "label: const Text('Submit'),"
+  ],
+  [
+   856,
+   "title: const Text('Notice Board'),"
+  ],
+  [
+   872,
+   "return const Center(child: Text('No notices available'));"
+  ],
+  [
+   903,
+   "Text('Posted: ${_formatDate(notice['created_at'])}',"
+  ]
+ ],
+ "lib/screens/parent/parent_screens_part2.dart": [
+  [
+   38,
+   "title: const Text('My Profile'),"
+  ],
+  [
+   47,
+   "content: Text('Profile updated'),"
+  ],
+  [
+   84,
+   "labelText: 'Full Name',"
+  ],
+  [
+   94,
+   "labelText: 'Phone',"
+  ],
+  [
+   105,
+   "labelText: 'Address',"
+  ],
+  [
+   126,
+   "title: const Text('Emergency Contacts'),"
+  ],
+  [
+   187,
+   "title: const Text('Attendance Report'),"
+  ],
+  [
+   259,
+   "const Text('Daily Records',"
+  ],
+  [
+   313,
+   "title: const Text('Report Cards'),"
+  ],
+  [
+   358,
+   "title: const Text('Co-curricular Activities'),"
+  ],
+  [
+   423,
+   "title: const Text('Settings'),"
+  ],
+  [
+   430,
+   "const Text('Notifications',"
+  ],
+  [
+   433,
+   "title: const Text('Attendance Alerts'),"
+  ],
+  [
+   434,
+   "subtitle: const Text('Get notified about attendance'),"
+  ],
+  [
+   439,
+   "title: const Text('Grade Updates'),"
+  ],
+  [
+   440,
+   "subtitle: const Text('Receive grade notifications'),"
+  ],
+  [
+   445,
+   "title: const Text('Fee Reminders'),"
+  ],
+  [
+   446,
+   "subtitle: const Text('Payment due reminders'),"
+  ],
+  [
+   451,
+   "title: const Text('School Announcements'),"
+  ],
+  [
+   452,
+   "subtitle: const Text('General school updates'),"
+  ],
+  [
+   457,
+   "const Text('Account',"
+  ],
+  [
+   461,
+   "title: const Text('Change Password'),"
+  ],
+  [
+   467,
+   "title: const Text('Logged-in Devices'),"
+  ],
+  [
+   473,
+   "title: const Text('Language'),"
+  ],
+  [
+   474,
+   "subtitle: const Text('English'),"
+  ],
+  [
+   481,
+   "title: const Text('About'),"
+  ],
+  [
+   482,
+   "subtitle: const Text('Version 1.0.0'),"
+  ],
+  [
+   486,
+   "title: const Text('Logout', style: TextStyle(color: Colors.red)),"
+  ],
+  [
+   506,
+   "title: const Text('School Events'),"
+  ],
+  [
+   522,
+   "return const Center(child: Text('No upcoming events'));"
+  ],
+  [
+   582,
+   "child: const Text('Register'),"
+  ],
+  [
+   734,
+   "label: Text('Grade: $grade'),"
+  ],
+  [
+   737,
+   "Text('${percentage.toStringAsFixed(1)}%',"
+  ],
+  [
+   785,
+   "Text('$members members',"
+  ]
+ ],
+ "lib/screens/parent/parent_screens_part3.dart": [
+  [
+   39,
+   "title: const Text('Messages'),"
+  ],
+  [
+   124,
+   "Text('No messages yet',"
+  ],
+  [
+   130,
+   "Text('Start a conversation with teachers or admin',"
+  ],
+  [
+   191,
+   "hintText: 'Type a message...',"
+  ],
+  [
+   214,
+   "const SnackBar(content: Text('Message sent!')),"
+  ],
+  [
+   220,
+   "SnackBar(content: Text('Error: $e')),"
+  ],
+  [
+   257,
+   "title: const Text('Performance Tracking'),"
+  ],
+  [
+   275,
+   "return const Center(child: Text('No children enrolled'));"
+  ],
+  [
+   443,
+   "title: const Text('Volunteer Opportunities'),"
+  ],
+  [
+   453,
+   "title: const Text('Volunteer Opportunities'),"
+  ],
+  [
+   496,
+   "label: Text('${item.spots} spots'),"
+  ],
+  [
+   514,
+   "child: const Text('Learn More'),"
+  ],
+  [
+   521,
+   "content: Text('Signed up for ${item.title}!')),"
+  ],
+  [
+   524,
+   "child: const Text('Sign Up'),"
+  ],
+  [
+   581,
+   "title: const Text('Documents'),"
+  ],
+  [
+   602,
+   "const Text('Document Categories',"
+  ],
+  [
+   629,
+   "Text('${cat['count'] ?? 0} files',"
+  ],
+  [
+   641,
+   "const Text('Recent Documents',"
+  ],
+  [
+   649,
+   "child: Text('No documents available',"
+  ],
+  [
+   720,
+   "title: const Text('School Gallery'),"
+  ],
+  [
+   730,
+   "title: const Text('School Gallery'),"
+  ],
+  [
+   752,
+   "Text('School Memories',"
+  ],
+  [
+   757,
+   "Text('Browse through our photo gallery',"
+  ],
+  [
+   765,
+   "const Text('Albums',"
+  ],
+  [
+   797,
+   "Text('${album['count'] ?? 0} photos',"
+  ],
+  [
+   856,
+   "title: const Text('Alumni Network'),"
+  ],
+  [
+   866,
+   "title: const Text('Alumni Network'),"
+  ],
+  [
+   890,
+   "Text('Our Alumni',"
+  ],
+  [
+   895,
+   "Text('500+ successful graduates',"
+  ],
+  [
+   905,
+   "const Text('Notable Alumni',"
+  ],
+  [
+   971,
+   "title: const Text('Feedback'),"
+  ],
+  [
+   980,
+   "const Text('Share Your Feedback',"
+  ],
+  [
+   983,
+   "Text('Help us improve the school experience',"
+  ],
+  [
+   989,
+   "const Text('Category',"
+  ],
+  [
+   1005,
+   "const Text('Rating', style: TextStyle(fontWeight: FontWeight.bold)),"
+  ],
+  [
+   1022,
+   "const Text('Title', style: TextStyle(fontWeight: FontWeight.bold)),"
+  ],
+  [
+   1027,
+   "hintText: 'Brief title',"
+  ],
+  [
+   1035,
+   "const Text('Details',"
+  ],
+  [
+   1042,
+   "hintText: 'Tell us more...',"
+  ],
+  [
+   1062,
+   "content: Text('Feedback submitted! Thank you.'),"
+  ],
+  [
+   1072,
+   "SnackBar(content: Text('Error: $e')),"
+  ],
+  [
+   1078,
+   "label: const Text('Submit Feedback'),"
+  ]
+ ],
+ "lib/screens/student/academic_history_screen.dart": [
+  [
+   19,
+   "title: const Text('Academic History'),"
+  ],
+  [
+   46,
+   "return Center(child: Text('Error loading data'));"
+  ],
+  [
+   170,
+   "title: const Text('My Profile'),"
+  ],
+  [
+   248,
+   "Text('Personal Information',"
+  ],
+  [
+   276,
+   "Text('Account Information',"
+  ],
+  [
+   287,
+   "Text('Additional Details',"
+  ],
+  [
+   356,
+   "content: Text('Profile updated successfully'),"
+  ],
+  [
+   363,
+   "SnackBar(content: Text('Error: $e'), backgroundColor: Colors.red),"
+  ],
+  [
+   531,
+   "title: const Text('Placement Test'),"
+  ],
+  [
+   596,
+   "label: const Text('Previous'),"
+  ],
+  [
+   672,
+   "label: const Text('Back to Dashboard'),"
+  ],
+  [
+   809,
+   "const Text('No records for this period',"
+  ]
+ ],
+ "lib/screens/student/assignments_screen.dart": [
+  [
+   23,
+   "return Center(child: Text('Error: ${snapshot.error}'));"
+  ],
+  [
+   35,
+   "hintText: 'Search assignments...',"
+  ],
+  [
+   81,
+   "Text('$subject • ${assignment['points']} points'),"
+  ],
+  [
+   82,
+   "Text('Due: ${_formatDate(dueDate)}'),"
+  ],
+  [
+   191,
+   "Text('Assignment submitted successfully!')),"
+  ],
+  [
+   197,
+   "SnackBar(content: Text('Error: $e')),"
+  ],
+  [
+   203,
+   "label: const Text('Submit Assignment'),"
+  ],
+  [
+   215,
+   "label: const Text('View Submission'),"
+  ],
+  [
+   231,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/assignments_screen_realtime.dart": [
+  [
+   30,
+   "hintText: 'Search assignments...',"
+  ],
+  [
+   60,
+   "Text('No assignments found',"
+  ],
+  [
+   92,
+   "Text('Due: ${_formatDate(assignment['due_date'])}'),"
+  ],
+  [
+   125,
+   "Text('Error: $error'),"
+  ],
+  [
+   130,
+   "label: const Text('Retry'),"
+  ],
+  [
+   216,
+   "const SnackBar(content: Text('Submit assignment feature')),"
+  ],
+  [
+   220,
+   "label: const Text('Submit'),"
+  ],
+  [
+   236,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/attendance_screen_realtime.dart": [
+  [
+   190,
+   "Text('Error: $error'),"
+  ],
+  [
+   194,
+   "label: const Text('Retry'),"
+  ]
+ ],
+ "lib/screens/student/courses_screen.dart": [
+  [
+   23,
+   "return Center(child: Text('Error: ${snapshot.error}'));"
+  ],
+  [
+   32,
+   "hintText: 'Search courses...',"
+  ],
+  [
+   176,
+   "const SnackBar(content: Text('Progress saved!')),"
+  ],
+  [
+   182,
+   "SnackBar(content: Text('Error: $e')),"
+  ],
+  [
+   188,
+   "label: const Text('Continue Learning'),"
+  ],
+  [
+   204,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/courses_screen_realtime.dart": [
+  [
+   28,
+   "hintText: 'Search courses...',"
+  ],
+  [
+   56,
+   "Text('No courses found',"
+  ],
+  [
+   112,
+   "Text('${progress.toInt()}%',"
+  ],
+  [
+   144,
+   "Text('Error: $error'),"
+  ],
+  [
+   148,
+   "label: const Text('Retry'),"
+  ],
+  [
+   195,
+   "const SnackBar(content: Text('View course materials')),"
+  ],
+  [
+   199,
+   "label: const Text('Materials'),"
+  ],
+  [
+   215,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/exams_screen.dart": [
+  [
+   17,
+   "title: const Text('My Exams'),"
+  ],
+  [
+   37,
+   "Text('No exams scheduled',"
+  ],
+  [
+   170,
+   "title: const Text('My Results'),"
+  ],
+  [
+   191,
+   "Text('No results available',"
+  ],
+  [
+   291,
+   "title: const Text('My Certificates'),"
+  ],
+  [
+   314,
+   "Text('No certificates yet',"
+  ],
+  [
+   451,
+   "label: const Text('Download Certificate'),"
+  ]
+ ],
+ "lib/screens/student/grades_screen_realtime.dart": [
+  [
+   29,
+   "hintText: 'Search grades...',"
+  ],
+  [
+   61,
+   "Text('No grades found',"
+  ],
+  [
+   89,
+   "Text('GPA',"
+  ],
+  [
+   104,
+   "Text('Average',"
+  ],
+  [
+   107,
+   "Text('${avgPercentage.toStringAsFixed(1)}%',"
+  ],
+  [
+   119,
+   "Text('Courses',"
+  ],
+  [
+   122,
+   "Text('${filtered.length}',"
+  ],
+  [
+   166,
+   "Text('${grade['percentage']}%',"
+  ],
+  [
+   184,
+   "Text('Error: $error'),"
+  ],
+  [
+   188,
+   "label: const Text('Retry'),"
+  ]
+ ],
+ "lib/screens/student/resources_screen_realtime.dart": [
+  [
+   30,
+   "hintText: 'Search resources...',"
+  ],
+  [
+   60,
+   "Text('No resources found',"
+  ],
+  [
+   123,
+   "Text('${resource['downloads'] ?? 0}',"
+  ],
+  [
+   131,
+   "Text('${resource['views'] ?? 0}',"
+  ],
+  [
+   152,
+   "Text('Error: $error'),"
+  ],
+  [
+   156,
+   "label: const Text('Retry'),"
+  ],
+  [
+   255,
+   "const SnackBar(content: Text('Download resource feature')),"
+  ],
+  [
+   259,
+   "label: const Text('Download'),"
+  ],
+  [
+   275,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/schedule_screen_realtime.dart": [
+  [
+   71,
+   "Text('No classes scheduled',"
+  ],
+  [
+   75,
+   "Text('Enjoy your free day!',"
+  ],
+  [
+   158,
+   "Text('Error: $error'),"
+  ],
+  [
+   162,
+   "label: const Text('Retry'),"
+  ],
+  [
+   213,
+   "child: Text('$label:',"
+  ]
+ ],
+ "lib/screens/student/student_screens.dart": [
+  [
+   21,
+   "title: const Text('Course Details'),"
+  ],
+  [
+   36,
+   "return Center(child: Text('Error loading course'));"
+  ],
+  [
+   76,
+   "Text('${course?['progress'] ?? 0}% Complete',"
+  ],
+  [
+   103,
+   "const Text('Course Modules',"
+  ],
+  [
+   161,
+   "title: const Text('Submit Assignment'),"
+  ],
+  [
+   177,
+   "const Text('Assignment Details',"
+  ],
+  [
+   192,
+   "const Text('Upload File',"
+  ],
+  [
+   217,
+   "Text('PDF, DOC, DOCX (Max 10MB)',"
+  ],
+  [
+   231,
+   "const Text('Additional Notes',"
+  ],
+  [
+   238,
+   "hintText: 'Add any notes for your instructor...',"
+  ],
+  [
+   252,
+   "content: Text('Assignment submitted successfully!'),"
+  ],
+  [
+   258,
+   "label: const Text('Submit Assignment'),"
+  ],
+  [
+   282,
+   "title: const Text('My Timetable'),"
+  ],
+  [
+   316,
+   "title: const Text('Subject Progress'),"
+  ],
+  [
+   362,
+   "title: const Text('Study Planner'),"
+  ],
+  [
+   372,
+   "const Text('Today',"
+  ],
+  [
+   391,
+   "const Text('Tomorrow',"
+  ],
+  [
+   418,
+   "title: const Text('Online Classes'),"
+  ],
+  [
+   493,
+   "child: const Text('LIVE',"
+  ],
+  [
+   516,
+   "child: const Text('Join'),"
+  ],
+  [
+   519,
+   "const Chip(label: Text('Scheduled')),"
+  ],
+  [
+   540,
+   "title: const Text('Career Guidance'),"
+  ],
+  [
+   559,
+   "Text('Discover Your Career Path',"
+  ],
+  [
+   572,
+   "const Text('Recommended Careers',"
+  ],
+  [
+   609,
+   "title: const Text('Scholarships'),"
+  ],
+  [
+   658,
+   "title: const Text('Sports Activities'),"
+  ],
+  [
+   713,
+   "title: const Text('Mental Health Support'),"
+  ],
+  [
+   731,
+   "Text('Your Wellbeing Matters',"
+  ],
+  [
+   737,
+   "Text('Access resources and support for your mental health',"
+  ],
+  [
+   744,
+   "const Text('Resources',"
+  ],
+  [
+   838,
+   "subtitle: Text('$lessons lessons â€¢ $duration'),"
+  ],
+  [
+   930,
+   "subtitle: Text('${cls['room']} â€¢ ${cls['teacher']}'),"
+  ],
+  [
+   991,
+   "Text('$progress% Complete',"
+  ],
+  [
+   1025,
+   "subtitle: Text('$subject â€¢ $time'),"
+  ],
+  [
+   1087,
+   "Text('$match% Match',"
+  ],
+  [
+   1243,
+   "title: const Text('Grades Detail'),"
+  ],
+  [
+   1260,
+   "return const Center(child: Text('No grades available'));"
+  ],
+  [
+   1288,
+   "const Text('Overall Average',"
+  ],
+  [
+   1292,
+   "Text('${avgScore.toStringAsFixed(1)}%',"
+  ],
+  [
+   1318,
+   "const Text('Subject-wise Grades',"
+  ],
+  [
+   1430,
+   "title: const Text('Discussion Forum'),"
+  ],
+  [
+   1464,
+   "Text('No discussions yet',"
+  ],
+  [
+   1475,
+   "label: const Text('Start Discussion'),"
+  ],
+  [
+   1592,
+   "const Text('New Discussion',"
+  ],
+  [
+   1597,
+   "labelText: 'Title',"
+  ],
+  [
+   1606,
+   "labelText: 'Content',"
+  ],
+  [
+   1616,
+   "child: const Text('Post'),"
+  ],
+  [
+   1649,
+   "title: const Text('Group Projects'),"
+  ],
+  [
+   1758,
+   "Text('${project['members'] ?? 0} members',"
+  ],
+  [
+   1776,
+   "Text('Due: ${_formatDate(project['deadline'])}',"
+  ],
+  [
+   1864,
+   "title: const Text('Internship Tracker'),"
+  ],
+  [
+   1883,
+   "const Text('Applications',"
+  ],
+  [
+   1925,
+   "Text('Applied: ${item.appliedDate}',"
+  ],
+  [
+   1948,
+   "label: const Text('Add New Application'),"
+  ],
+  [
+   2017,
+   "title: const Text('Exchange Programs'),"
+  ],
+  [
+   2075,
+   "child: const Text('Details'),"
+  ],
+  [
+   2083,
+   "Text('Applied to ${program.university}!')),"
+  ],
+  [
+   2086,
+   "child: const Text('Apply'),"
+  ],
+  [
+   2131,
+   "title: const Text('Student Clubs'),"
+  ],
+  [
+   2169,
+   "Text('${club.$4} members',"
+  ],
+  [
+   2192,
+   "child: const Text('Join', style: TextStyle(fontSize: 12)),"
+  ],
+  [
+   2224,
+   "title: const Text('Campus Map'),"
+  ],
+  [
+   2251,
+   "const Text('Interactive Campus Map',"
+  ],
+  [
+   2254,
+   "Text('Tap to explore',"
+  ],
+  [
+   2266,
+   "const Text('Key Locations',"
+  ],
+  [
+   2346,
+   "title: const Text('Marketplace'),"
+  ],
+  [
+   2362,
+   "hintText: 'Search items...',"
+  ],
+  [
+   2398,
+   "subtitle: Text('${item.condition} â€¢ ${item.seller}',"
+  ],
+  [
+   2404,
+   "Text('\\$${item.price.toStringAsFixed(2)}',"
+  ],
+  [
+   2417,
+   "child: const Text('Buy', style: TextStyle(fontSize: 11)),"
+  ],
+  [
+   2631,
+   "title: const Text('Exam Preparation'),"
+  ],
+  [
+   2664,
+   "Text('Exam Ready?',"
+  ],
+  [
+   2670,
+   "Text('Review your upcoming exams',"
+  ],
+  [
+   2694,
+   "Text('No upcoming exams',"
+  ],
+  [
+   2705,
+   "const Text('Upcoming Exams',"
+  ],
+  [
+   2738,
+   "const Text('Study Resources',"
+  ],
+  [
+   2831,
+   "title: const Text('Find a Tutor'),"
+  ],
+  [
+   2885,
+   "Text(' ${tutor.rating}',"
+  ],
+  [
+   2890,
+   "Text('\\$${tutor.hourlyRate}/hr',"
+  ],
+  [
+   2902,
+   "label: const Text('Available',"
+  ],
+  [
+   2909,
+   "label: const Text('Busy',"
+  ],
+  [
+   2926,
+   "label: const Text('Message'),"
+  ],
+  [
+   2940,
+   "label: const Text('Book Session'),"
+  ],
+  [
+   2964,
+   "title: const Text('Wellness & Fitness'),"
+  ],
+  [
+   2986,
+   "Text('Today\\'s Wellness',"
+  ],
+  [
+   2992,
+   "Text('Keep up the healthy lifestyle!',"
+  ],
+  [
+   3042,
+   "const Text('Wellness Programs',"
+  ],
+  [
+   3081,
+   "const Text('Mental Wellness',"
+  ],
+  [
+   3097,
+   "const Text('Mood Tracker',"
+  ],
+  [
+   3099,
+   "Text('How are you feeling today?',"
+  ],
+  [
+   3178,
+   "title: const Text('Lost & Found'),"
+  ],
+  [
+   3219,
+   "Text('${item.location} â€¢ ${item.date}',"
+  ],
+  [
+   3291,
+   "title: const Text('Canteen Menu'),"
+  ],
+  [
+   3313,
+   "Text(\"Today's Special\","
+  ],
+  [
+   3317,
+   "Text('Grilled Chicken with Rice',"
+  ],
+  [
+   3323,
+   "Text('\\$8.50',"
+  ],
+  [
+   3370,
+   "Text('\\$${item.price.toStringAsFixed(2)}',"
+  ],
+  [
+   3381,
+   "child: const Text('Add', style: TextStyle(fontSize: 11)),"
+  ],
+  [
+   3402,
+   "title: const Text('Attendance Calendar'),"
+  ],
+  [
+   3421,
+   "const Text('March 2025',"
+  ],
+  [
+   3538,
+   "title: const Text('Student ID'),"
+  ],
+  [
+   3580,
+   "const Text('STUDENT ID',"
+  ],
+  [
+   3593,
+   "child: const Text('ACTIVE',"
+  ],
+  [
+   3649,
+   "title: const Text('Notification Settings'),"
+  ],
+  [
+   3656,
+   "const Text('Academic',"
+  ],
+  [
+   3676,
+   "const Text('Communication',"
+  ],
+  [
+   3692,
+   "const Text('System',"
+  ],
+  [
+   3816,
+   "Text('$target target',"
+  ],
+  [
+   3875,
+   "Text('$time â€¢ $instructor', style: const TextStyle(fontSize: 12)),"
+  ],
+  [
+   3878,
+   "label: const Text('Enrolled',"
+  ],
+  [
+   3888,
+   "child: const Text('Join', style: TextStyle(fontSize: 11)),"
+  ],
+  [
+   3914,
+   "SnackBar(content: Text('Mood logged: $label')),"
+  ],
+  [
+   4014,
+   "Text('$value/$total',"
+  ],
+  [
+   4087,
+   "title: const Text('My Library'),"
+  ],
+  [
+   4102,
+   "return Center(child: Text('Error: ${snapshot.error}'));"
+  ],
+  [
+   4350,
+   "title: const Text('Notifications'),"
+  ],
+  [
+   4367,
+   "content: Text('All notifications marked as read')),"
+  ],
+  [
+   4371,
+   "child: const Text('Mark all read'),"
+  ],
+  [
+   4387,
+   "return Center(child: Text('Error: ${snapshot.error}'));"
+  ],
+  [
+   4447,
+   "const Text('Today',"
+  ],
+  [
+   4455,
+   "const Text('Yesterday',"
+  ],
+  [
+   4463,
+   "const Text('Earlier',"
+  ],
+  [
+   4528,
+   "const SnackBar(content: Text('Please fill all fields')),"
+  ],
+  [
+   4550,
+   "content: Text('Thank you for your feedback!'),"
+  ],
+  [
+   4559,
+   "SnackBar(content: Text('Error: $e'), backgroundColor: Colors.red),"
+  ],
+  [
+   4571,
+   "title: const Text('Submit Feedback'),"
+  ],
+  [
+   4596,
+   "const Text('Rating', style: TextStyle(fontWeight: FontWeight.bold)),"
+  ],
+  [
+   4614,
+   "const Text('Category',"
+  ],
+  [
+   4637,
+   "value: 'general', child: Text('General')),"
+  ],
+  [
+   4638,
+   "DropdownMenuItem(value: 'course', child: Text('Course')),"
+  ],
+  [
+   4640,
+   "value: 'teacher', child: Text('Teacher')),"
+  ],
+  [
+   4642,
+   "value: 'facility', child: Text('Facilities')),"
+  ],
+  [
+   4644,
+   "value: 'service', child: Text('Service')),"
+  ],
+  [
+   4651,
+   "const Text('Title', style: TextStyle(fontWeight: FontWeight.bold)),"
+  ],
+  [
+   4656,
+   "hintText: 'Brief title of your feedback',"
+  ],
+  [
+   4664,
+   "const Text('Details',"
+  ],
+  [
+   4671,
+   "hintText: 'Tell us more about your experience...',"
+  ],
+  [
+   4704,
+   "title: const Text('Study Materials'),"
+  ],
+  [
+   4718,
+   "return Center(child: Text('Error: ${snapshot.error}'));"
+  ],
+  [
+   5093,
+   "title: const Text('Fee Details'),"
+  ],
+  [
+   5119,
+   "return Center(child: Text('Error loading data'));"
+  ],
+  [
+   5176,
+   "label: const Text('Export'),"
+  ],
+  [
+   5216,
+   "title: const Text('Help & Support'),"
+  ],
+  [
+   5291,
+   "label: const Text('Submit Support Ticket'),"
+  ],
+  [
+   5310,
+   "title: const Text('Privacy & Security'),"
+  ],
+  [
+   5378,
+   "title: const Text('Delete Account?'),"
+  ],
+  [
+   5385,
+   "child: const Text('Cancel'),"
+  ],
+  [
+   5392,
+   "child: const Text('Delete'),"
+  ],
+  [
+   5442,
+   "title: const Text('Achievements'),"
+  ],
+  [
+   6081,
+   "appBar: AppBar(title: const Text('Submit Ticket')),"
+  ],
+  [
+   6089,
+   "labelText: 'Issue Title',"
+  ],
+  [
+   6099,
+   "labelText: 'Description',"
+  ],
+  [
+   6108,
+   "labelText: 'Category',"
+  ],
+  [
+   6126,
+   "value: 'hardware', child: Text('Hardware')),"
+  ],
+  [
+   6128,
+   "value: 'software', child: Text('Software')),"
+  ],
+  [
+   6130,
+   "value: 'network', child: Text('Network')),"
+  ],
+  [
+   6132,
+   "value: 'account', child: Text('Account')),"
+  ],
+  [
+   6133,
+   "DropdownMenuItem(value: 'other', child: Text('Other')),"
+  ],
+  [
+   6143,
+   "content: Text('Ticket submitted successfully'),"
+  ],
+  [
+   6149,
+   "label: const Text('Submit Ticket'),"
+  ],
+  [
+   6170,
+   "appBar: AppBar(title: const Text('Logged-in Devices')),"
+  ],
+  [
+   6184,
+   "return const Center(child: Text('No active devices'));"
+  ],
+  [
+   6209,
+   "? const Chip(label: Text('Current'))"
+  ]
+ ],
+ "lib/services/notification_service.dart": [
+  [
+   37,
+   "SnackBar(content: Text('$title: $body')),"
+  ]
+ ],
+ "lib/services/report_service.dart": [
+  [
+   94,
+   "pw.Text('Report: ${reportData['type']}',"
+  ],
+  [
+   98,
+   "pw.Text('Generated: ${reportData['generated_at']}'),"
+  ],
+  [
+   99,
+   "pw.Text('Total Records: ${reportData['total_records']}'),"
+  ],
+  [
+   101,
+   "pw.Text('Data:',"
+  ]
+ ],
+ "lib/widgets/advanced_ui_components.dart": [
+  [
+   107,
+   "Text('Change file', style: TextStyle(fontSize: 10, color: Colors.grey[600])),"
+  ]
+ ],
+ "lib/widgets/common_state_widgets.dart": [
+  [
+   56,
+   "label: const Text('Refresh'),"
+  ],
+  [
+   198,
+   "label: const Text('Try Again'),"
+  ]
+ ],
+ "lib/widgets/crud_dialogs.dart": [
+  [
+   280,
+   "child: const Text('Cancel'),"
+  ],
+  [
+   287,
+   "child: const Text('Delete'),"
+  ]
+ ],
+ "lib/widgets/error_widget.dart": [
+  [
+   38,
+   "label: const Text('Retry'),"
+  ]
+ ],
+ "lib/widgets/paginated_list_view.dart": [
+  [
+   352,
+   "const Text('Something went wrong',"
+  ],
+  [
+   366,
+   "label: const Text('Retry'),"
+  ]
+ ],
+ "lib/widgets/search_bar_widget.dart": [
+  [
+   37,
+   "hintText: 'Search students, teachers, courses...',"
+  ]
+ ],
+ "lib/widgets/ui_helpers.dart": [
+  [
+   460,
+   "child: const Text('Prev'),"
+  ],
+  [
+   467,
+   "child: const Text('Next'),"
+  ],
+  [
+   493,
+   "child: Text('Map Placeholder', style: theme.textTheme.bodyMedium),"
+  ]
+ ],
+ "lib/widgets/charts/app_charts.dart": [
+  [
+   155,
+   "Text('${item.value.toStringAsFixed(0)}%',"
+  ],
+  [
+   304,
+   "Text('${(pct * 100).toStringAsFixed(0)}%',"
+  ]
+ ]
+}
